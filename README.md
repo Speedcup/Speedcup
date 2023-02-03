@@ -1,3 +1,7 @@
+<p align="center"><a href="https://discord.com/users/406420078549270539">
+        <img src="https://lanyard.cnrad.dev/api/406420078549270539" alt="Discord" style="width: 410px; height: 210px;">
+      </a>
+</p>
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=speedcup&count_private=true&show_icons=true&theme=dark">
   <br/>
