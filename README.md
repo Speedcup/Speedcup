@@ -5,8 +5,6 @@
         <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=speedcup"/>
         <br/><br/>
 	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=speedcup&layout=compact&custom_title=My%20Week&theme=dark"/>
-        <br/>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=speedcup&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
 	</a>
 	<br/>
 </p>
