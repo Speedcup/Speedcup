@@ -6,7 +6,7 @@
         <br/><br/>
 	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=speedcup&layout=compact&custom_title=My%20Week&theme=dark"/>
 	<br/>
-	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedcup&layout=compact&theme=dark&custom_title=Most%20Used%20Languages%20In%20Public%20Repos"/>
+	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedcup&layout=compact&theme=dark&custom_title=Most%20Used%20Languages%20(Only%20Public%20Repositories)&card_width=495"/>
 	</a>
 	<br/>
 </p>
