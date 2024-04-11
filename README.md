@@ -10,7 +10,7 @@
 [![Wakatime](https://github.com/Speedcup/Speedcup/assets/39856260/e16e8d5e-4f6f-4cf6-a30c-cf035db2dfac)](https://wakatime.com/@Speedcup)
 [![Spotify](https://github.com/Speedcup/Speedcup/assets/39856260/55bae240-734d-4a1a-bce6-3db683ef882f)](https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps)
 
-## 🛠️ — Languages
+## ⚙️ — Languages
 ![Languages](https://skillicons.dev/icons?i=swift,rust,c,cs,cpp,py,html,css,php,js,ts,lua,bash,pkl)
 <br/>
 ![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,cassandra)
