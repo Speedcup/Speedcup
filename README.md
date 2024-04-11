@@ -4,22 +4,19 @@
 	<img src="https://flagcdn.com/32x24/de.png" alt='flag'/>
 </p>
 
-<br/>
-
 ## 🌐 — Socials
 [![Steam](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png)](https://steamcommunity.com/id/speedcup/)
-[![Discord](https://static-00.iconduck.com/assets.00/discord-icon-32x32-o5mluhz2.png)](https://discord.com/users/406420078549270539/)
-[![Wakatime](https://cdn.worldvectorlogo.com/logos/wakatime.svg)](https://wakatime.com/@Speedcup)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/406420078549270539/)
+[![Wakatime](https://github.com/Speedcup/Speedcup/assets/39856260/e16e8d5e-4f6f-4cf6-a30c-cf035db2dfac)](https://wakatime.com/@Speedcup)
+[![Spotify](https://github.com/Speedcup/Speedcup/assets/39856260/55bae240-734d-4a1a-bce6-3db683ef882f)](https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps)
 
-<a href="https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="spotify_icon" width="32px" height="32px" />
-</a>
+## 🛠️ — Languages
+![Languages](https://skillicons.dev/icons?i=swift,rust,c,cs,cpp,py,html,css,php,js,ts,lua,bash,pkl)
+<br/>
+![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,cassandra)
 
-<a href="https://www.twitch.tv/speedcup" target="_blank">
-	<img src="https://cdn.icon-icons.com/icons2/2992/PNG/512/twitch_logo_icon_187308.png" alt="twitch_icon" width="32px" height="32px" />
-</a>
-
-</div>
+## 🛠️ — Tools
+![Tools](https://skillicons.dev/icons?i=apple,windows,linux,unreal,visualstudio,vscode,pycharm,idea,webstorm,phpstorm,postman)
 
 <p align="center">
 	<a href="https://wakatime.com/@Speedcup" target="_blank">
