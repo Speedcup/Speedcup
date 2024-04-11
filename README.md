@@ -1,27 +1,15 @@
-<div align="leading">
-<h1>👋🏻 Hello — its me, Speedy</h1>
+# 👋🏻 Hello — its me, Speedy
 <p>
 	<img src="https://flagcdn.com/32x24/ca.png" alt='flag'/>
 	<img src="https://flagcdn.com/32x24/de.png" alt='flag'/>
 </p>
-</div>
 
-<div align="leading">
-<h2>
-	🌐 — Socials
-</h2>
+<br/>
 
-<a href="https://steamcommunity.com/id/speedcup/" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="steam_icon" width="32px" height="32px" />
-</a>
-
-<a href="https://discord.com/users/406420078549270539/" target="_blank">
-	<img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="discord_icon" width="32px" height="32px" />
-</a>
-
-<a href="https://wakatime.com/@Speedcup" target="_blank">
-	<img src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" alt="wakatime_icon" width="32px" height="32px">
-</a>
+## 🌐 — Socials
+[![Steam](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png)](https://steamcommunity.com/id/speedcup/)
+[![Discord](https://static-00.iconduck.com/assets.00/discord-icon-32x32-o5mluhz2.png)](https://discord.com/users/406420078549270539/)
+[![Wakatime](https://cdn.worldvectorlogo.com/logos/wakatime.svg)](https://wakatime.com/@Speedcup)
 
 <a href="https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps" target="_blank">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="spotify_icon" width="32px" height="32px" />
