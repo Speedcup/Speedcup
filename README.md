@@ -18,7 +18,7 @@
 [![Spotify](https://github.com/Speedcup/Speedcup/assets/39856260/55bae240-734d-4a1a-bce6-3db683ef882f)](https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps)
 
 ## ⚙️ — Languages
-![Languages](https://skillicons.dev/icons?i=swift,rust,c,cs,cpp,py,html,css,php,js,ts,lua,bash,pkl)
+![Languages](https://skillicons.dev/icons?i=swift,rust,c,cpp,py,html,css,php,js,ts,lua,bash,pkl)
 <br/>
 ![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,cassandra)
 
