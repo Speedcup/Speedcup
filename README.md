@@ -28,12 +28,10 @@
 <!-- ![Tools](https://skillicons.dev/icons?i=apple,windows,linux,unreal,visualstudio,vscode,pycharm,idea,webstorm,phpstorm,postman) -->
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=apple,windows,linux,unreal,xcode,visualstudio,vscode,pycharm,idea,webstorm,phpstorm,postman&theme=dark)
 
-## 📔 — Wakatime Stats
+## 📔 — Stats
 
 <p align="leading">
 	<a href="https://wakatime.com/@Speedcup" target="_blank">
-	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=speedcup&layout=compact&custom_title=My%20Week&theme=dark"/>
-	<br/>
-	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedcup&layout=compact&theme=dark&custom_title=Most%20Used%20Languages%20(Only%20Public%20Repositories)&card_width=495"/>
+	<img alt="MyWeek" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedcup&layout=compact&theme=dark&custom_title=Most%20Used%20Languages%20(Only%20Public%20Repositories)&card_width=495"/>
 	</a>
 </p>
