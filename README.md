@@ -12,7 +12,7 @@
 </p>
 
 ## 🌐 — Socials
-[![Steam](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png)](https://steamcommunity.com/id/speedcup/)
+[![Steam](https://go-skill-icons.vercel.app/api/icons?i=steam)](https://steamcommunity.com/id/speedcup/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/406420078549270539/)
 [![Wakatime](https://github.com/Speedcup/Speedcup/assets/39856260/e16e8d5e-4f6f-4cf6-a30c-cf035db2dfac)](https://wakatime.com/@Speedcup)
 [![Spotify](https://github.com/Speedcup/Speedcup/assets/39856260/55bae240-734d-4a1a-bce6-3db683ef882f)](https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps)
@@ -26,7 +26,7 @@
 
 ## 🛠️ — Tools
 <!-- ![Tools](https://skillicons.dev/icons?i=apple,windows,linux,unreal,visualstudio,vscode,pycharm,idea,webstorm,phpstorm,postman) -->
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=apple,windows,linux,unreal,xcode,visualstudio,vscode,pycharm,idea,webstorm,phpstorm,postman&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,unreal,xcode,visualstudio,vscode,pycharm,idea,webstorm,rustrover,datagrip,postman,insomnia&theme=dark)
 
 ## 📔 — Stats
 
