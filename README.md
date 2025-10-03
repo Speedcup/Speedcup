@@ -19,7 +19,7 @@
 
 ## ⚙️ — Languages
 <!-- ![Languages](https://skillicons.dev/icons?i=swift,rust,c,cpp,py,html,css,php,js,ts,lua,bash,pkl) -->
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=swift,rust,c,cpp,py,html,css,php,js,ts,lua,bash,pkl&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=swift,rust,c,cpp,py,js,ts,lua,bash,pkl&theme=dark)
 <br/>
 <!-- ![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,cassandra) -->
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgres,cassandra&theme=dark)
