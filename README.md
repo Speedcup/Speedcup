@@ -4,7 +4,6 @@
 	<img src="https://flagcdn.com/32x24/de.png" alt='flag'/>
 </p>
 <p>
-	<img alt="Wakatime" src="https://wakatime.com/badge/user/efa2997d-cc97-41fb-bb76-50495c88d0a6.svg"/>
 	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=speedcup"/>
 </p>
 <p>
@@ -14,7 +13,6 @@
 ## 🌐 — Socials
 [![Steam](https://go-skill-icons.vercel.app/api/icons?i=steam)](https://steamcommunity.com/id/speedcup/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/406420078549270539/)
-[![Wakatime](https://github.com/Speedcup/Speedcup/assets/39856260/e16e8d5e-4f6f-4cf6-a30c-cf035db2dfac)](https://wakatime.com/@Speedcup)
 [![Spotify](https://github.com/Speedcup/Speedcup/assets/39856260/55bae240-734d-4a1a-bce6-3db683ef882f)](https://open.spotify.com/user/wm4r1vw84mm7lme64otrwu4ps)
 
 ## ⚙️ — Languages
@@ -27,11 +25,3 @@
 ## 🛠️ — Tools
 <!-- ![Tools](https://skillicons.dev/icons?i=apple,windows,linux,unreal,visualstudio,vscode,pycharm,idea,webstorm,phpstorm,postman) -->
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,unreal,xcode,visualstudio,vscode,pycharm,idea,webstorm,rustrover,datagrip,postman,insomnia&theme=dark)
-
-## 📔 — Stats
-
-<p align="leading">
-	<a href="https://wakatime.com/@Speedcup" target="_blank">
-	<img alt="MyWeek" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedcup&layout=compact&theme=dark&custom_title=Most%20Used%20Languages%20(Only%20Public%20Repositories)&card_width=495"/>
-	</a>
-</p>
